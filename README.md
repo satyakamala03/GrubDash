@@ -1,5 +1,8 @@
 ## 🍔 **GrubDash: Scalable Cloud-Based Food Delivery Application**
 
+![Architecture Diagram](https://github.com/satyakamala03/GrubDash/blob/main/assets/ArchitectureDiagram.png)
+
+
 ### **Overview**
 
 **GrubDash** is a serverless, event-driven, and highly scalable food delivery platform deployed on **AWS**.
