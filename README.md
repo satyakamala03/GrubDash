@@ -2,6 +2,8 @@
 
 ![Architecture Diagram](https://github.com/satyakamala03/GrubDash/blob/main/assets/ArchitectureDiagram.png)
 
+[![Watch the demo](https://img.youtube.com/vi/n3nJnzkFb3k/0.jpg)](https://www.youtube.com/watch?v=n3nJnzkFb3k)
+
 
 ### **Overview**
 
