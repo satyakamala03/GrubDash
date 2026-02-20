@@ -16,7 +16,7 @@ The application handles complex workflows like **payment processing**, **order b
 
 ## ⚙️ **High-Level Architecture**
 
-GrubDash is composed of four core services:
+GrubDash is composed of five core services:
 
 1. **Signup/Login Service**
 2. **Customer Service**
